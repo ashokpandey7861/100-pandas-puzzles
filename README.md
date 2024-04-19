@@ -75,3 +75,5 @@ If you feel like reading up on pandas before starting, the official documentatio
 - [Guilherme Samora's pandas exercises](https://github.com/guipsamora/pandas_exercises)
 
 There are may other excellent resources and books that are easily searchable and purchaseable.
+
+https://www.youtube.com/watch?v=i7v2m-ebXB4
